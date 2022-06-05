@@ -1,0 +1,18 @@
+{
+  "name": "graceful-width-change",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arthurhovhannisyan31/graceful_width_change.git",
+  "author": "Artur Oganesian <arthurhovhannisyan31@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.11",
+    "@types/react-dom": "^18.0.5",
+    "typescript": "^4.7.3"
+
+  }
+}
