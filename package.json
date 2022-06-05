@@ -5,6 +5,9 @@
   "repository": "git@github.com:arthurhovhannisyan31/graceful_width_change.git",
   "author": "Artur Oganesian <arthurhovhannisyan31@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
