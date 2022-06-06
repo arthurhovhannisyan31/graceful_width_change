@@ -1,0 +1,11 @@
+.gracefull-container {
+  display: flex;
+  flex-grow: 0;
+  flex-shrink: 1;
+  max-height: 100%;
+
+  padding: 50px;
+  box-sizing: border-box;
+
+  background-color: red;
+}

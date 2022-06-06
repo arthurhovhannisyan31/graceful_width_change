@@ -1,0 +1,1 @@
+export const RESIZE_DELAY_DURATION = 1000
